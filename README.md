@@ -1,1 +1,2 @@
-# mc322
+Otavio Anovazzi
+Engenharia da Computação
